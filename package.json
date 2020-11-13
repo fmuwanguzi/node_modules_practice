@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fmuwanguzi/node_modules_practice/issues"
   },
-  "homepage": "https://github.com/fmuwanguzi/node_modules_practice#readme"
+  "homepage": "https://github.com/fmuwanguzi/node_modules_practice#readme",
+  "dependencies": {
+    "weather": "^1.0.4"
+  }
 }
