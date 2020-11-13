@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/fmuwanguzi/node_modules_practice#readme",
   "dependencies": {
+    "colors": "^1.4.0",
+    "fortune-cookies": "^1.0.1",
+    "nba": "^4.13.0",
     "weather": "^1.0.4"
   }
 }
